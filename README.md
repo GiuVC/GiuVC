@@ -1,6 +1,6 @@
 <h3 align="center">A frontend and backend developer from Brazil</h3>
 
-<h4>Here you will find codes that show my experience with programming.
+<h4>Here you will find codes that show my experience with programming.<br>
 The following codes show a little of the frontend and backend.</h4>
 
 <p align="left">
