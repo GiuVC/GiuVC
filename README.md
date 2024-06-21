@@ -1,5 +1,8 @@
 <h3 align="center">A frontend and backend developer from Brazil</h3>
 
+<h4>
+I am currently studying higher education in computer science and becoming a computer technician for the internet</h4>
+
 <p align="left">
 </p>
 
