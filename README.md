@@ -1,7 +1,7 @@
 <h3 align="center">A frontend and backend developer from Brazil</h3>
 
-<h4>
-I am currently studying higher education in computer science and becoming a computer technician for the internet</h4>
+<h4>Here you will find codes that show my experience with programming.
+The following codes show a little of the frontend and backend.</h4>
 
 <p align="left">
 </p>
