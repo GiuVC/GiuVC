@@ -4,7 +4,7 @@
 - ✨ Linguagens de marcação e estilo
 - 💻 Linguagens de programação e script
 - 🎲 Sistemas de gerenciamento de banco de dados
-- ⚙  Atualizando meu GitHub
+- ⚙  Atualizando meu GitHub...
 
 <br>
 <br>
